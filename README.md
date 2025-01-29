@@ -6,7 +6,7 @@
   <title># M-ajiri</title>
 </head>
 <body>
-  <h1>WHire any professional at your convinience</h1>
+  <h1>Hire any professional at your convinience</h1>
   <p>This is my free domain at <a href="https://username.github.io/">https://username.github.io/</a></p>
 </body>
 </html>
